@@ -27,13 +27,13 @@ Este é um simples conversor web que permite converter entre anos-luz e quilôme
 
 O algoritmo para converter anos-luz para quilômetros é baseado na velocidade da luz. A velocidade da luz no vácuo é aproximadamente \(9.461 \times 10^{12}\) quilômetros por ano. Para converter anos-luz para quilômetros, o algoritmo multiplica o número de anos-luz pelo valor da velocidade da luz. A fórmula é:
 
-\[ \text{quilômetros} = \text{anos-luz} \times 9.461 \times 10^{12} \]
+quilômetros = anos-luz * 9.461 * 10^12 
 
 ### Quilômetros para Anos-luz
 
 Para converter quilômetros para anos-luz, o algoritmo utiliza a mesma velocidade da luz. Ele divide o número de quilômetros pela velocidade da luz para calcular quantos anos-luz correspondem aos quilômetros fornecidos. A fórmula é:
 
-\[ \text{anos-luz} = \frac{\text{quilômetros}}{9.461 \times 10^{12}} \]
+anos-luz = quilômetros / 9.461 * 10^12
 
 Esses cálculos são realizados em tempo real quando você insere um valor e clica no botão "Converter" na página web.
 
